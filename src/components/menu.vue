@@ -26,7 +26,7 @@
         <div :class="menuStatus">
             <button @click='toggle()' type="button" class="btn-menu"><span>Menu</span></button>
         </div>
-        <a  v-show="showTitle" class="home-button" href="/auth">Giddy Up!</a>
+        <a  v-show="showTitle" class="home-button" href="/auth">Giddy Up Bro! </a>
     </header>
 </template>
 
